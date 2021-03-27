@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote  name="ppui"
+		fetch="https://github.com/PixelPlusUI-Devices" />
+ 
+ 	<project path="device/xiaomi/onclite" name="device_xiaomi_onclite" remote="ppui" revision="3.0_r1"/>
+	<project path="kernel/xiaomi/onclite" name="kernel_xiaomi_onclite" remote="ppui" revision="3.2_r1" />
+	<project path="vendor/xiaomi/onclite" name="vendor_xiaomi_onclite" remote="ppui" revision="3.0_r1"/>
+
+</manifest>
